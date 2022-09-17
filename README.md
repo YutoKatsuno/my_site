@@ -1,1 +1,1 @@
-# my_site
+This is a project for CSS practice.
